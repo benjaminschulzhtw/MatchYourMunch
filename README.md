@@ -1,6 +1,6 @@
 # Match Your Munch
 
-Match Your Munch ist eine Android-App, die es Nutzern ermöglicht Food-Spots zu verwalten..
+Match Your Munch ist eine Android-App, die es Nutzern ermöglicht Food-Spots zu verwalten.
 Sie basiert auf dem MVVM-Architekturmuster und unterstützt lokale Offline-Datenhaltung sowie standortbasierte Funktionen.
 
 Bei der Verwendung der App werden folgende Kernfunktionen geboten:
@@ -11,4 +11,4 @@ Bei der Verwendung der App werden folgende Kernfunktionen geboten:
 
 Außerdem ist die App durch Unit-, Integrations- und UI-Tests gestützt.
 
-Mehr zu den einzelnen Komponenten, deren Zusammenarbeit sowie Informationen zu den Schnittstellen und der Teststrategie erhalten Sie in der vollständig überarbeiteten Version meines Technical Whitepapers sowie in den beigelegten Folien meiner Präsentation.
+Mehr zu den einzelnen Komponenten, deren Zusammenarbeit sowie Informationen zu den Schnittstellen und der Teststrategie erhalten Sie in der vollständig überarbeiteten Version meines Technical White Papers sowie in den beigelegten Folien meiner Präsentation.
