@@ -12,3 +12,12 @@ Bei der Verwendung der App werden folgende Kernfunktionen geboten:
 Außerdem ist die App durch Unit-, Integrations- und UI-Tests gestützt.
 
 Mehr zu den einzelnen Komponenten, deren Zusammenarbeit sowie Informationen zu den Schnittstellen und der Teststrategie erhalten Sie in der vollständig überarbeiteten Version meines Technical White Papers sowie in den beigelegten Folien meiner Präsentation.
+
+
+
+Das Projekt entstand im Zuge einer semesterbegleitenden Prüfungsleistung aus dem Modul "Mobile Betriebssysteme und Netzwerke" des 3. Semesters meines Studiengangs "Angewandte Informatik".
+
+Ursprünglich wurde die App in einem Team von 2 Entwicklern begonnen, aber letztendlich von mir alleine zu Ende gestellt.
+Mein Kollege war ausschließlich an der Integration der Standortdienste beteiligt, deren Funktion ich trotzdem alleine überarbeitet und fertiggestellt habe.
+
+Es gibt ein ungefixtes Problem, bei dem ein Food-Spot nach der Bearbeitung zwar im Back-End bereits aktualisiert ist, dies in der visuellen Darstellung aber noch nicht übernommen wird.
